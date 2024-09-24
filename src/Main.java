@@ -3,5 +3,4 @@ public class Main {
         System.out.println("Привет мир!");
         System.out.println("Hello world!");
     }
-
 }
